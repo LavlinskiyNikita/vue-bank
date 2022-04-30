@@ -1,5 +1,5 @@
 # bank-vue
-fnggfnggf
+подсчет вашего бюджета на фрамеворке vue.js 
 
 ## Project setup
 ```

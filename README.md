@@ -1,5 +1,7 @@
 # bank-vue
+calculating your budget on the vue.js framework
 подсчет вашего бюджета на фрамеворке vue.js 
+опыт с курса, певое приложения на vue js 
 
 ## Project setup
 ```

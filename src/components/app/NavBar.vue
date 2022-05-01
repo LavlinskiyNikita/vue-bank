@@ -67,7 +67,6 @@ export default {
     }
   },
   mounted() {
-    html: {{ dateFilter('datetime') }}
     this.interval = setInterval(()=> {
       this.date = new Date
     }, 1000)
